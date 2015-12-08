@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Wyndell/Documents/AndroidFiles/push/44/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/Wyndell/Documents/AndroidFiles/push/44/app/build/intermediates/pre-dexed/debug/classes-4a7fc07df37837bf3091e18ed4169ee10b1baf07.jar" />
+    </item>
+    <item
+        jar="/Users/Wyndell/Documents/AndroidFiles/push/44/app/build/intermediates/exploded-aar/44.libraries/opencv/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f3e724d4d0d7c67d432ffd32348e11fcbeaa1aa3">
+        <dex dex="/Users/Wyndell/Documents/AndroidFiles/push/44/app/build/intermediates/pre-dexed/debug/classes-0f9fb79fabc93436e68e2737ac4d93d2d53db1c2.jar" />
+    </item>
+    <item
+        jar="/Users/Wyndell/Documents/AndroidFiles/push/44/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/Wyndell/Documents/AndroidFiles/push/44/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-58dd6e31a985467dd9d228fe4f478b6eba620a62.jar" />
+    </item>
+    <item
+        jar="/Users/Wyndell/Documents/AndroidFiles/push/44/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/Wyndell/Documents/AndroidFiles/push/44/app/build/intermediates/pre-dexed/debug/classes-88be211a600e6a1b3697a306295110b6a7286db1.jar" />
+    </item>
+    <item
+        jar="/Users/Wyndell/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/Wyndell/Documents/AndroidFiles/push/44/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-4c8f2873fc6afe497ef689af05e6172e38db8893.jar" />
+    </item>
+
+</items>
